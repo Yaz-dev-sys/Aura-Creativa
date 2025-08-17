@@ -152,3 +152,6 @@ STORAGES = {
         "BACKEND": "whitenoise.storage.CompressedManifestStaticFilesStorage",
     },
 }
+
+
+CSRF_TRUSTED_ORIGINS =['*', 'https://aura-creativa-production-4284.up.railway.app/']
