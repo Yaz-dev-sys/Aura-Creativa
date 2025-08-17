@@ -139,3 +139,5 @@ DEFAULT_FROM_EMAIL = 'conectaauracreativa@gmail.com'
 
 # Email del administrador (tu email)
 ADMIN_EMAIL = 'conectaauracreativa@gmail.com'  # El email donde recibirás las notificaciones
+
+ALLOWED_HOSTS=['*']
