@@ -153,5 +153,7 @@ STORAGES = {
     },
 }
 
-
-CSRF_TRUSTED_ORIGINS =['*', 'https://aura-creativa-production-4284.up.railway.app/']
+CSRF_TRUSTED_ORIGINS = [
+    "https://auracreativa.agency",
+    "https://www.auracreativa.agency",
+]
